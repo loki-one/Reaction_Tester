@@ -1,0 +1,16 @@
+		
+		body{
+			font-family: sans-serif;
+		}
+
+		#shape{
+			height: 200px;
+			width: 200px;
+			background-color: red;
+			position: relative;
+			display : none;
+		}
+
+		.bold{
+			font-weight: bold;
+		}
